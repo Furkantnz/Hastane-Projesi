@@ -1,2 +1,2 @@
 # Hastane Projesi
- Doktor Hasta Sekreter girişli küçük işlemler yapılan proje
+ Doktor Hasta Sekreter girişli içerisinde işlemler yapılabilen proje
